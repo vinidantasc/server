@@ -1,51 +1,8 @@
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-
-IP: ::1
+IP: Não disponível
+IPv6: ::1
 Sistema Operacional: Linux 0.0.0
 Navegador: Chrome 130.0.0
 Localização: undefined, undefined, undefined
 ISP: ISP não disponível
-Horário do Acesso: 02/11/2024 11:11:00
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-ISP: ISP não disponível
-Horário do Acesso: 02/11/2024 11:12:47
-
-IP: ::1
-Sistema Operacional: Linux 0.0.0
-Navegador: Chrome 130.0.0
-Localização: undefined, undefined, undefined
-ISP: ISP não disponível
-Horário do Acesso: 02/11/2024 13:51:56
+Horário do Acesso: 02/11/2024 19:19:04
 
