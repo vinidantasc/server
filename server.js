@@ -27,8 +27,8 @@ app.use(async (req, res, next) => {
         console.error('Erro ao obter a localização:', error.message);
     }
 
-    // Captura o horário do acesso
-    const horarioAcesso = new Date().toLocaleString();
+    // Captura o horário do acesso no horário de Brasília
+    const horarioAcesso = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
 
     // Salvar informações capturadas para exibir na resposta
     req.infoCapturada = {
