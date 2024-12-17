@@ -5,7 +5,7 @@ const useragent = require('useragent');
 
 // Inicialização do app
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000; // Porta dinâmica para Render ou 3000 localmente
 
 // Middleware para capturar informações do cliente
 app.use(async (req, res, next) => {

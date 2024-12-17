@@ -1,0 +1,14 @@
+{
+    "name": "seu-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.x",
+        "fs": "0.0.1-security",
+        "axios": "^1.x",
+        "useragent": "^2.x"
+    }
+}
